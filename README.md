@@ -5,4 +5,4 @@ This plugin is licensed under GNU GPL V2 license. Enjoy
 
 Here's a demo: https://www.unisoftdev.tech/download/image-effects
 
-Describtion from official Joomla directory: https://extensions.joomla.org/profile/profile/details/325855/
+A better describtion from official Joomla directory: https://extensions.joomla.org/profile/profile/details/325855/
